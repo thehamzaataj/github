@@ -1,13 +1,16 @@
 
-### 1. [supabase](#section1)
-### 2. [Firebase's Park and Blaze Plans:](#Section2 )
-### 3. [Appwrite](#Section3)
-### 4. [Compare Free Plans from Supabase, Firebase and Appwrite](#Section4)
-### 5. [Appwrite Pro, Firebase Blaze, and Supabase Pro](#Section5)
-### 6. [Supabase Team and Appwrite Scale](#section6)
-### 7. [Appwrite Enterprises and Supabase Enterprise](#section7)
-### 8 .[Supabase Free, Firebase Spark, Appwrite Free, and AWS S3 Free Tier](#section8)
-###### section1
+### Table of Contents
+
+1. [Table 1: Supabase](#table)
+2. [Table 2: Firebase's Spark and Blaze Plans](#table2)
+3. [Table 3: Appwrite](#table3)
+4. [Table 4: Compare Free Plans from Supabase, Firebase, and Appwrite](#table4)
+5. [Table 5: Supabase Free, Firebase Spark, Appwrite Free, and AWS S3 Free Tier](#table5)
+6. [Table 6: Appwrite Pro, Firebase Blaze, and Supabase Pro](#table6)
+7. [Table 7: Supabase Team and Appwrite Scale](#table7)
+8. [Table 8: Appwrite Enterprise and Supabase Enterprise](#table8)
+
+###### table
 # Table 1: Supabase
 This table summarizes the various features and pricing plans available for Supabase.
 
@@ -58,9 +61,8 @@ This table summarizes the various features and pricing plans available for Supab
 | - SSO                                   | No                                                     | Coming Soon                                           | Contact Us                                          |
 
 
-###### Section2 
+###### table2
 # Table 2. Firebase's Park and Blaze Plans:
-Here is the information formatted into a table for Firebase's Spark and Blaze plans:
 
 
 | **Feature**                            | **Spark Plan (Free)**                              | **Blaze Plan (Pay-as-you-go)**                        |
@@ -132,10 +134,9 @@ Here is the information formatted into a table for Firebase's Spark and Blaze pl
 | - Other IaaS                            | Included                                           | Included                                              |
 | **Gemini in Firebase**                 | During promo: no cost                              | Promo ends Aug 30, 2024; No cost during promo        |
 
-##### Section3
+###### table3
 # Table 3: AppWrite:
 
-Here is a detailed comparison table for Appwrite's plans: Free, Pro, Scale, and Enterprises:
 
 | **Feature**                           | **Free**                       | **Pro**                                      | **Scale**                                    | **Enterprises**                             |
 |---------------------------------------|--------------------------------|----------------------------------------------|----------------------------------------------|---------------------------------------------|
@@ -185,7 +186,7 @@ Here is a detailed comparison table for Appwrite's plans: Free, Pro, Scale, and 
 | **Support - Priority**                | -                              | -                                            | Yes                                          | Yes                                         |
 | **Support - SLA**                     | -                              | -                                            | Yes                                          | Yes                                         |
 
-T
+###### table4
 
 ### **Table 4: Supabase Free, Firebase Spark, and Appwrite Free**
 
@@ -226,9 +227,47 @@ T
 | **Support - Priority**                       | Not included                   | Not applicable                    | Not included                     |
 | **Support - SLA**                            | Not included                   | Not applicable                    | Not included                     |
 
-###### section5
+###### table5
 
-### **Table 5: Appwrite Pro, Firebase Blaze, and Supabase Pro**
+### **Table 5: Supabase Free, Firebase Spark, Appwrite Free, and AWS S3 Free Tier**
+
+| **Feature**                                  | **Supabase Free**              | **Firebase Spark**                | **Appwrite Free**                | **AWS S3 Free Tier**             |
+|----------------------------------------------|--------------------------------|-----------------------------------|----------------------------------|----------------------------------|
+| **Monthly Cost**                             | $0                             | $0                                | $0                               | $0                               |
+| **Database**                                 | Dedicated Postgres Database    | Not applicable                    | 1 per project                    | Not included                     |
+| **Database Size**                            | 500 MB included                | 1 GiB total                       | 2 GB                             | Not included                     |
+| **Automatic Backups**                        | Not included                   | Not applicable                    | Not included                     | Not included                     |
+| **Bandwidth**                                | 5 GB included                  | 10 GB                             | 10 GB                            | 15 GB egress to internet         |
+| **Additional Bandwidth**                     | $0.09 per GB                   | Not applicable                    | Not applicable                   | $0.09 per GB                     |
+| **Storage**                                  | 1 GB included                  | 5 GB                              | 2 GB                             | 5 GB                             |
+| **Additional Storage**                       | $0.021 per GB                  | $0.10/GB                          | Not applicable                   | $0.023 per GB                    |
+| **Auth - Total Users**                       | Unlimited                      | 50k/month                         | 75,000 MAUs                      | Not applicable                   |
+| **Anonymous Sign-ins**                       | Included                       | 10 SMS sent/day                   | Included                         | Not applicable                   |
+| **Social OAuth Providers**                   | Included                       | Check                             | Included                         | Not applicable                   |
+| **Custom SMTP Server**                       | Included                       | Not applicable                    | Not included                     | Not applicable                   |
+| **Remove Branding from Emails**              | Not included                   | Not applicable                    | No                               | Not applicable                   |
+| **Audit Trails**                             | 1 hour                         | Not applicable                    | 1 hour                           | Not included                     |
+| **Single Sign-On (SAML 2.0)**                | Not included                   | Not applicable                    | Not included                     | Not included                     |
+| **Leaked Password Protection**               | Not included                   | Not applicable                    | Not included                     | Not included                     |
+| **Session Timeouts**                         | Not included                   | Not applicable                    | Not included                     | Not included                     |
+| **Custom Access Token (JWT)**                | Custom Access Token (JWT)      | Not applicable                    | Not included                     | Not included                     |
+| **Storage - Max File Upload Size**           | 50 MB                          | 1 GB                              | 50 MB                            | No limit                         |
+| **Content Delivery Network**                 | Basic CDN                      | Not applicable                    | Basic CDN                        | Included with CloudFront         |
+| **Image Transformations**                    | Not included                   | Not applicable                    | Not included                     | Not included                     |
+| **Realtime - Messages Per Month**            | 2 Million                      | Not applicable                    | 3 Million                        | Not applicable                   |
+| **Realtime - Max Message Size**              | 250 KB                         | Not applicable                    | Not applicable                   | Not applicable                   |
+| **Edge Functions - Invocations**             | 500,000 included               | Not applicable                    | 750K                             | Not applicable                   |
+| **Edge Functions - Script Size**             | 10 MB                          | Not applicable                    | Not applicable                   | Not applicable                   |
+| **Edge Functions - Number of Functions**     | 10 included                    | Not applicable                    | 5 per project                    | Not applicable                   |
+| **Team Members**                             | Unlimited                      | Not applicable                    | 1                                | Not applicable                   |
+| **Access Controls**                          | Coming Soon                    | Not applicable                    | Not included                     | IAM Roles                        |
+| **Vanity URLs**                              | Not included                   | Not applicable                    | Not included                     | Not included                     |
+| **Custom Domains**                           | Not included                   | Not applicable                    | Unlimited                        | Included with CloudFront         |
+
+
+###### table6
+
+### **Table 6: Appwrite Pro, Firebase Blaze, and Supabase Pro**
 
 | **Feature**                                  | **Appwrite Pro**               | **Firebase Blaze**                | **Supabase Pro**                 |
 |----------------------------------------------|--------------------------------|-----------------------------------|----------------------------------|
@@ -267,9 +306,9 @@ T
 | **Support - Priority**                       | Not included                   | Not applicable                    | Not included                     |
 | **Support - SLA**                            | Not included                   | Not applicable                    | Not included                     |
 
-###### section6
+###### table7
 
-### **Table 6: Supabase Team and Appwrite Scale**
+### **Table 7: Supabase Team and Appwrite Scale**
 
 | **Feature**                                  | **Supabase Team**              | **Appwrite Scale**                |
 |----------------------------------------------|--------------------------------|-----------------------------------|
@@ -310,9 +349,9 @@ T
 | **Support - Priority**                       | Included                       | Yes                               |
 | **Support - SLA**                            | Included                       | Yes                               |
 
-###### section7
+###### table8
 
-### **Table 7: Appwrite Enterprises and Supabase Enterprise**
+### **Table 8: Appwrite Enterprises and Supabase Enterprise**
 
 | **Feature**                                  | **Appwrite Enterprises**       | **Supabase Enterprise**           |
 |----------------------------------------------|--------------------------------|-----------------------------------|
@@ -351,42 +390,7 @@ T
 | **Support - Priority**                       | Yes                            | Included                          |
 | **Support - SLA**                            | Yes                            | Included                          |
 
-###### section8
-
-### **Table 8: Supabase Free, Firebase Spark, Appwrite Free, and AWS S3 Free Tier**
-
-| **Feature**                                  | **Supabase Free**              | **Firebase Spark**                | **Appwrite Free**                | **AWS S3 Free Tier**             |
-|----------------------------------------------|--------------------------------|-----------------------------------|----------------------------------|----------------------------------|
-| **Monthly Cost**                             | $0                             | $0                                | $0                               | $0                               |
-| **Database**                                 | Dedicated Postgres Database    | Not applicable                    | 1 per project                    | Not included                     |
-| **Database Size**                            | 500 MB included                | 1 GiB total                       | 2 GB                             | Not included                     |
-| **Automatic Backups**                        | Not included                   | Not applicable                    | Not included                     | Not included                     |
-| **Bandwidth**                                | 5 GB included                  | 10 GB                             | 10 GB                            | 15 GB egress to internet         |
-| **Additional Bandwidth**                     | $0.09 per GB                   | Not applicable                    | Not applicable                   | $0.09 per GB                     |
-| **Storage**                                  | 1 GB included                  | 5 GB                              | 2 GB                             | 5 GB                             |
-| **Additional Storage**                       | $0.021 per GB                  | $0.10/GB                          | Not applicable                   | $0.023 per GB                    |
-| **Auth - Total Users**                       | Unlimited                      | 50k/month                         | 75,000 MAUs                      | Not applicable                   |
-| **Anonymous Sign-ins**                       | Included                       | 10 SMS sent/day                   | Included                         | Not applicable                   |
-| **Social OAuth Providers**                   | Included                       | Check                             | Included                         | Not applicable                   |
-| **Custom SMTP Server**                       | Included                       | Not applicable                    | Not included                     | Not applicable                   |
-| **Remove Branding from Emails**              | Not included                   | Not applicable                    | No                               | Not applicable                   |
-| **Audit Trails**                             | 1 hour                         | Not applicable                    | 1 hour                           | Not included                     |
-| **Single Sign-On (SAML 2.0)**                | Not included                   | Not applicable                    | Not included                     | Not included                     |
-| **Leaked Password Protection**               | Not included                   | Not applicable                    | Not included                     | Not included                     |
-| **Session Timeouts**                         | Not included                   | Not applicable                    | Not included                     | Not included                     |
-| **Custom Access Token (JWT)**                | Custom Access Token (JWT)      | Not applicable                    | Not included                     | Not included                     |
-| **Storage - Max File Upload Size**           | 50 MB                          | 1 GB                              | 50 MB                            | No limit                         |
-| **Content Delivery Network**                 | Basic CDN                      | Not applicable                    | Basic CDN                        | Included with CloudFront         |
-| **Image Transformations**                    | Not included                   | Not applicable                    | Not included                     | Not included                     |
-| **Realtime - Messages Per Month**            | 2 Million                      | Not applicable                    | 3 Million                        | Not applicable                   |
-| **Realtime - Max Message Size**              | 250 KB                         | Not applicable                    | Not applicable                   | Not applicable                   |
-| **Edge Functions - Invocations**             | 500,000 included               | Not applicable                    | 750K                             | Not applicable                   |
-| **Edge Functions - Script Size**             | 10 MB                          | Not applicable                    | Not applicable                   | Not applicable                   |
-| **Edge Functions - Number of Functions**     | 10 included                    | Not applicable                    | 5 per project                    | Not applicable                   |
-| **Team Members**                             | Unlimited                      | Not applicable                    | 1                                | Not applicable                   |
-| **Access Controls**                          | Coming Soon                    | Not applicable                    | Not included                     | IAM Roles                        |
-| **Vanity URLs**                              | Not included                   | Not applicable                    | Not included                     | Not included                     |
-| **Custom Domains**                           | Not included                   | Not applicable                    | Unlimited                        | Included with CloudFront         |
+         |
 | **Support - Community**                      | Included                       | Yes                               | Yes                              | Yes                              |
 | **Support - Email**                          | Not included                   | No                                | Not included                     | No                               |
 | **Support - Priority**                       | Not included                   | Not applicable                    | Not included                     | No                               |
