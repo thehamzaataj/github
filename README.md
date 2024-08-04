@@ -2,7 +2,8 @@
 ### 1. [supabase](#section1)
 ### 2. [Firebase's Park and Blaze Plans:](#Section2 )
 ### 3. [Appwrite](#Section3)
-### 4. [Comparison](#Section4)
+### 4. [Comparison b/w Supabase, Firebase and Appwrite](#Section4)
+### 5. [Compare Free Plans from Supabase, Firebase and Appwrite](#Section5)
 ###### section1
 # 1. Supabase
 This table summarizes the various features and pricing plans available for Supabase.
@@ -239,6 +240,25 @@ Here's a comparison of the features and pricing for Supabase, Firebase, and Appw
 | **HIPAA Compliance**               | Not included                      | Not included                        | Not included                        | Available as paid add-on           | Not applicable                      | Not applicable                      | Not included                        | Not included                        | Yes                                |
 | **Support**                        | Community                         | Email support                      | Email and priority support         | Designated customer success team   | Community support                    | Email and priority support          | Community support                    | Email support                        | Email and priority support          |
 
+###### section5
+# Free plans from Supabase, Firebase, and Appwrite
+
+| **Feature**                          | **Supabase Free**         | **Firebase Spark Plan**       | **Appwrite Free**       |
+|--------------------------------------|---------------------------|-------------------------------|-------------------------|
+| **Price**                            | $0/month                  | Free                          | Free                    |
+| **Dedicated Database**               | Included                  | Not included                   | 1 per project           |
+| **API Requests**                     | Unlimited                 | Not specified                  | Unlimited               |
+| **Database Size**                    | 500 MB                    | 1 GB                           | 2 GB                    |
+| **Automatic Backups**                | No                        | Not applicable                 | No                      |
+| **Branching**                        | No                        | Not applicable                 | No                      |
+| **Bandwidth**                        | 5 GB                      | 5 GB uncached, 5 GB cached    | 10 GB                   |
+| **Auth MAUs**                        | 50,000                    | 50k/month                      | 75,000                  |
+| **Storage**                          | 1 GB                      | 5 GB                           | 2 GB                    |
+| **File Upload Size**                 | 50 MB                     | Not applicable                 | 50 MB                   |
+| **Realtime Connections**             | 200                       | 100                            | 250                     |
+| **Edge Function Invocations**        | 500,000                   | Not applicable                 | 750k                    |
+| **Team Members**                     | Unlimited                 | Not specified                  | 1                       |
+| **Support**                          | Community                 | Community                      | Community               |
 This table provides a high-level comparison of features and pricing across Supabase, Firebase, and Appwrite. Each platform has its strengths, so the best choice will depend on your specific needs, such as storage requirements, authentication needs, and desired support levels.
 
 
