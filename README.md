@@ -244,24 +244,20 @@ Here's a comparison of the features and pricing for Supabase, Firebase, and Appw
 # Free plans from Supabase, Firebase, and Appwrite
 Here is a table comparing the free tiers for Supabase, Firebase, and Appwrite:
 
-| **Feature**               | **Supabase Free**        | **Firebase Spark Plan (Free)**  | **Appwrite Free**     |
-|---------------------------|--------------------------|--------------------------------|-----------------------|
-| **Price**                 | $0/month                 | Free                           | Free                  |
-| **Dedicated Database**    | Included                 | -                              | 1 per project         |
-| **API Requests**          | Unlimited                | -                              | Unlimited             |
-| **Database Size**         | 500 MB                   | 1 GB                            | 2 GB                  |
-| **Automatic Backups**     | No                       | -                              | No                    |
-| **Branching**             | No                       | -                              | No                    |
-| **Bandwidth**             | 5 GB                     | 5 GB uncached, 5 GB cached      | 10 GB                 |
-| **Auth MAUs**             | 50,000                   | 50,000/month                    | 75,000                |
-| **Storage**               | 1 GB                     | 5 GB                            | 2 GB                  |
-| **File Upload Size**      | 50 MB                    | -                              | 50 MB                 |
-| **Realtime Connections**  | 200                      | 100                              | 250                   |
-| **Edge Function Invocations** | 500,000               | -                              | 750,000               |
-| **Team Members**          | Unlimited                | -                              | 1                     |
-| **Support**               | Community                | Community                       | Community             |
+Sure! Here’s a comparative table for the free plans of Appwrite, Supabase, and Firebase:
 
+| **Feature**                 | **Appwrite**                           | **Supabase**                          | **Firebase**                            |
+|-----------------------------|----------------------------------------|--------------------------------------|-----------------------------------------|
+| **Auth**                    | 75,000 MAUs, 100 teams per project     | 50,000 MAUs free, unlimited users     | 50,000 MAUs free, then Google Cloud pricing |
+| **Storage**                 | 2GB total, 50MB file size limit, 3 buckets | 1GB total, 50MB file size limit, 100GB | 5GB free, then $0.10/GB, 50MB file size limit |
+| **Compute**                 | 750K executions for functions          | 500K invocations, 10 functions        | 2M invocations, then $0.40/million |
+| **Databases**               | 1 database per project, unlimited documents | 8GB included, unlimited documents    | 1GB stored free, then Google Cloud pricing |
+| **Real-time**               | 250 concurrent connections, 3M messages| 500 concurrent connections, unlimited messages | 100 simultaneous connections, 2M messages |
+| **Support**                 | Community support only                 | Community support, email support     | Community support, email support       |
+| **Custom Domains**          | 3 per project                           | Unlimited                             | Custom domain & SSL free               |
+| **Branding**                | Appwrite branding on emails            | Remove Supabase branding included     | Firebase branding on emails            |
+| **Webhooks**                | 2 per project                           | Unlimited                             | Not applicable                           |
 
-
+Let me know if you need any more details or another comparison!
 
 _© 2022 XYZ, Inc._
