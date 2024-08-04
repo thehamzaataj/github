@@ -242,24 +242,25 @@ Here's a comparison of the features and pricing for Supabase, Firebase, and Appw
 
 ###### section5
 # Free plans from Supabase, Firebase, and Appwrite
+Here is a table comparing the free tiers for Supabase, Firebase, and Appwrite:
 
-| **Feature**                          | **Supabase Free**         | **Firebase Spark Plan**       | **Appwrite Free**       |
-|--------------------------------------|---------------------------|-------------------------------|-------------------------|
-| **Price**                            | $0/month                  | Free                          | Free                    |
-| **Dedicated Database**               | Included                  | Not included                   | 1 per project           |
-| **API Requests**                     | Unlimited                 | Not specified                  | Unlimited               |
-| **Database Size**                    | 500 MB                    | 1 GB                           | 2 GB                    |
-| **Automatic Backups**                | No                        | Not applicable                 | No                      |
-| **Branching**                        | No                        | Not applicable                 | No                      |
-| **Bandwidth**                        | 5 GB                      | 5 GB uncached, 5 GB cached    | 10 GB                   |
-| **Auth MAUs**                        | 50,000                    | 50k/month                      | 75,000                  |
-| **Storage**                          | 1 GB                      | 5 GB                           | 2 GB                    |
-| **File Upload Size**                 | 50 MB                     | Not applicable                 | 50 MB                   |
-| **Realtime Connections**             | 200                       | 100                            | 250                     |
-| **Edge Function Invocations**        | 500,000                   | Not applicable                 | 750k                    |
-| **Team Members**                     | Unlimited                 | Not specified                  | 1                       |
-| **Support**                          | Community                 | Community                      | Community               |
-This table provides a high-level comparison of features and pricing across Supabase, Firebase, and Appwrite. Each platform has its strengths, so the best choice will depend on your specific needs, such as storage requirements, authentication needs, and desired support levels.
+| **Feature**               | **Supabase Free**        | **Firebase Spark Plan (Free)**  | **Appwrite Free**     |
+|---------------------------|--------------------------|--------------------------------|-----------------------|
+| **Price**                 | $0/month                 | Free                           | Free                  |
+| **Dedicated Database**    | Included                 | -                              | 1 per project         |
+| **API Requests**          | Unlimited                | -                              | Unlimited             |
+| **Database Size**         | 500 MB                   | 1 GB                            | 2 GB                  |
+| **Automatic Backups**     | No                       | -                              | No                    |
+| **Branching**             | No                       | -                              | No                    |
+| **Bandwidth**             | 5 GB                     | 5 GB uncached, 5 GB cached      | 10 GB                 |
+| **Auth MAUs**             | 50,000                   | 50,000/month                    | 75,000                |
+| **Storage**               | 1 GB                     | 5 GB                            | 2 GB                  |
+| **File Upload Size**      | 50 MB                    | -                              | 50 MB                 |
+| **Realtime Connections**  | 200                      | 100                              | 250                   |
+| **Edge Function Invocations** | 500,000               | -                              | 750,000               |
+| **Team Members**          | Unlimited                | -                              | 1                     |
+| **Support**               | Community                | Community                       | Community             |
+
 
 
 
