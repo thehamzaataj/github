@@ -310,44 +310,43 @@ This table summarizes the various features and pricing plans available for Supab
 
 ### **Table 7: Supabase Team and Appwrite Scale**
 
-| **Feature**                                  | **Supabase Team**              | **Appwrite Scale**                |
+| **Feature**                                  | **Appwrite Enterprises**       | **Supabase Enterprise**           |
 |----------------------------------------------|--------------------------------|-----------------------------------|
-| **Monthly Cost**                             | $599                           | $599 per organization             |
-| **Database**                                 | Dedicated Postgres Database    | Unlimited                         |
-| **Database Size**                            | 8 GB included                  | 150 GB                            |
-| **Automatic Backups**                        | 14 days                        | Not included                      |
-| **Bandwidth**                                | 250 GB included                | 300 GB                            |
-| **Additional Bandwidth**                     | $0.09 per GB                   | $40 per 100GB                     |
-| **Storage**                                  | 100 GB included                | 150 GB                            |
-| **Additional Storage**                       | $0.021 per GB                  | $3 per 100GB                      |
-| **Auth - Total Users**                       | Unlimited                      | 200,000 MAUs                      |
-| **Anonymous Sign-ins**                       | Included                       | Included                          |
-| **Social OAuth Providers**                   | Included                       | Included                          |
-| **Custom SMTP Server**                       | Included                       | Included                          |
-| **Remove Branding from Emails**              | Included                       | Yes                               |
-| **Audit Trails**                             | 28 days                        | 28 days                           |
-| **Single Sign-On (SAML 2.0)**                | Included                       | Coming Soon                       |
-| **Leaked Password Protection**               | Included                       | Included                          |
-| **Session Timeouts**                         | Included                       | Included                          |
-| **Custom Access Token (JWT)**                | Custom Access Token (JWT)      | Custom Access Token (JWT)         |
-| **Storage - Max File Upload Size**           | 50 GB                          | 5 GB                              |
-| **Content Delivery Network**                 | Smart CDN                      | Smart CDN                         |
-|
-
- **Image Transformations**                    | 100 origin images included, then $5 per 1000 origin images | Unlimited                         |
-| **Realtime - Messages Per Month**            | 5 Million                      | Unlimited                         |
-| **Realtime - Max Message Size**              | 3 MB                           | Not applicable                    |
-| **Edge Functions - Invocations**             | 2 Million                      | 3.5M                              |
-| **Edge Functions - Script Size**             | 10 MB                          | Not applicable                    |
-| **Edge Functions - Number of Functions**     | 1000                           | Unlimited                         |
+| **Monthly Cost**                             | Custom                         | Custom                            |
+| **Database**                                 | Unlimited                      | Dedicated Postgres Database       |
+| **Database Size**                            | Custom                         | Custom                            |
+| **Automatic Backups**                        | Custom                         | Custom                            |
+| **Bandwidth**                                | Custom                         | Custom                            |
+| **Additional Bandwidth**                     | Custom                         | Custom                            |
+| **Storage**                                  | Custom                         | Custom                            |
+| **Additional Storage**                       | Custom                         | Custom                            |
+| **Auth - Total Users**                       | Custom                         | Unlimited                         |
+| **Anonymous Sign-ins**                       | Custom                         | Included                          |
+| **Social OAuth Providers**                   | Custom                         | Included                          |
+| **Custom SMTP Server**                       | Yes                            | Included                          |
+| **Remove Branding from Emails**              | Yes                            | Included                          |
+| **Audit Trails**                             | Custom                         | Included                          |
+| **Single Sign-On (SAML 2.0)**                | Coming Soon                    | Included                          |
+| **Leaked Password Protection**               | Yes                            | Included                          |
+| **Session Timeouts**                         | Yes                            | Included                          |
+| **Custom Access Token (JWT)**                | Custom                         | Custom Access Token (JWT)         |
+| **Storage - Max File Upload Size**           | Custom                         | Custom                            |
+| **Content Delivery Network**                 | Custom                         | Smart CDN                         |
+| **Image Transformations**                    | Unlimited                      | Custom                            |
+| **Realtime - Messages Per Month**            | Custom                         | Volume discounts available        |
+| **Realtime - Max Message Size**              | Custom                         | Custom                            |
+| **Edge Functions - Invocations**             | Custom                         | Custom                            |
+| **Edge Functions - Script Size**             | Custom                         | Custom                            |
+| **Edge Functions - Number of Functions**     | Unlimited                      | Unlimited                         |
 | **Team Members**                             | Unlimited                      | Unlimited                         |
-| **Access Controls**                          | Included                       | Coming Soon                       |
-| **Vanity URLs**                              | Included                       | Not included                      |
-| **Custom Domains**                           | $10 per domain per month per project add-on | Unlimited                         |
-| **Support - Community**                      | Included                       | Yes                               |
-| **Support - Email**                          | Included                       | Yes                               |
-| **Support - Priority**                       | Included                       | Yes                               |
-| **Support - SLA**                            | Included                       | Yes                               |
+| **Access Controls**                          | Custom                         | Included                          |
+| **Vanity URLs**                              | Custom                         | Included                          |
+| **Custom Domains**                           | Unlimited                      | Custom                            |
+| **Support - Community**                      | Yes                            | Included                          |
+| **Support - Email**                          | Yes                            | Included                          |
+| **Support - Priority**                       | Yes                            | Included                          |
+| **Support - SLA**                            | Yes                            | Included                          |
+
 
 ###### table8
 
