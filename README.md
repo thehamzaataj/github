@@ -1,5 +1,5 @@
 
-### 1. supabase(#Supabase)
+### 1. [supabase](#Supabase)
 ### 2. Firebase's Park and Blaze Plans:
 ### 3. Appwrite
 ### 4. Comparison
