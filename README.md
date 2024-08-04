@@ -1,4 +1,9 @@
 
+### 1. supabase
+### 2. Firebase's Park and Blaze Plans:
+### 3. Appwrite
+### 4. Comparison
+
 # 1. Supabase
 This table summarizes the various features and pricing plans available for Supabase.
 | Feature                                      | Free                  | Pro                   | Team                  | Enterprise  |
@@ -149,7 +154,7 @@ Here is the information formatted into a table for Firebase's Spark and Blaze pl
 | **Google Cloud**                    |                          |                                      |
 | BigQuery                            | Check                    | Check                                |
 | Other IaaS                          | Close                    | Check                                |
-# 2. AppWrite:
+# 3. AppWrite:
 Here is the information formatted into a table for Appwrite's pricing and resource plans:
 
 | **Resource**                        | **Free Plan**                | **Paid Plan 1**                  | **Paid Plan 2**                  |
@@ -209,7 +214,7 @@ Here is the information formatted into a table for Appwrite's pricing and resour
 
 
 Here's a comparison of the features and pricing for Supabase, Firebase, and Appwrite across their different plans:\
-# Comparison of features and pricing across Supabase, Firebase, and Appwrite
+# 4. Comparison of features and pricing across Supabase, Firebase, and Appwrite
 
 | **Feature/Plan**                    | **Supabase Free Plan**            | **Supabase Pro Plan**              | **Supabase Team Plan**             | **Supabase Enterprise Plan**       | **Firebase Spark Plan**            | **Firebase Blaze Plan**            | **Appwrite Free Plan**              | **Appwrite Paid Plan 1**            | **Appwrite Paid Plan 2**            |
 |------------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
@@ -234,21 +239,5 @@ Here's a comparison of the features and pricing for Supabase, Firebase, and Appw
 This table provides a high-level comparison of features and pricing across Supabase, Firebase, and Appwrite. Each platform has its strengths, so the best choice will depend on your specific needs, such as storage requirements, authentication needs, and desired support levels.
 
 
-
-
-# Git and GitHub
-
-## Simple Interest Calculator
-
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
-
-```
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
-```
 
 _© 2022 XYZ, Inc._
