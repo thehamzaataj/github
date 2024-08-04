@@ -1,8 +1,8 @@
 
 ### 1. [supabase](#section1)
-### 2. [Firebase's Park and Blaze Plans:](####section2 )
-### 3. [Appwrite](#section3)
-### 4. [Comparison](#$)
+### 2. [Firebase's Park and Blaze Plans:](#Section2 )
+### 3. [Appwrite](#Section3)
+### 4. [Comparison](#Section4)
 # section1
 # 1. Supabase
 This table summarizes the various features and pricing plans available for Supabase.
@@ -73,7 +73,7 @@ This table summarizes the various features and pricing plans available for Supab
 | Designated Customer Success Team             | Not included          | Not included          | Not included          | Included    |
 | Security Questionnaire Help                  | Not included          | Not included          | Included              | Included    |
 
-#### section2 
+# Section2 
 # 2. Firebase's Park and Blaze Plans:
 Here is the information formatted into a table for Firebase's Spark and Blaze plans:
 
@@ -155,7 +155,7 @@ Here is the information formatted into a table for Firebase's Spark and Blaze pl
 | BigQuery                            | Check                    | Check                                |
 | Other IaaS                          | Close                    | Check                                |
 
-# section3
+##### Section3
 # 3. AppWrite:
 Here is the information formatted into a table for Appwrite's pricing and resource plans:
 
@@ -216,7 +216,7 @@ Here is the information formatted into a table for Appwrite's pricing and resour
 
 
 Here's a comparison of the features and pricing for Supabase, Firebase, and Appwrite across their different plans:\
-# $
+# Section4
 # 4. Comparison of features and pricing across Supabase, Firebase, and Appwrite
 
 | **Feature/Plan**                    | **Supabase Free Plan**            | **Supabase Pro Plan**              | **Supabase Team Plan**             | **Supabase Enterprise Plan**       | **Firebase Spark Plan**            | **Firebase Blaze Plan**            | **Appwrite Free Plan**              | **Appwrite Paid Plan 1**            | **Appwrite Paid Plan 2**            |
