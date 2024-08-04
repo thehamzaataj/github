@@ -1,8 +1,8 @@
 
 ### 1. [supabase](#Supabase)
-### 2. [Firebase's Park and Blaze Plans:](#Firebase's Park and Blaze Plans:)
-### 3. [Appwrite](#3. AppWrite:)
-### 4. [Comparison](#Comparison of features and pricing across Supabase, Firebase, and Appwrite)
+### 2. [Firebase's Park and Blaze Plans:](#Firebase)
+### 3. [Appwrite](#AppWrite)
+### 4. [Comparison](#Comparison)
 
 # 1. Supabase
 This table summarizes the various features and pricing plans available for Supabase.
